@@ -15,7 +15,7 @@ I mastered React, HTML-CSS features in this project. You can see the visual repr
 
 
 ## Visualization of the Website
-![image](https://github.com/Muka6363/React_Project-3/blob/main/public/React_Project-3.gif)
+![image](https://github.com/Muka6363/React_Project-3/blob/main/public/React_Psroject-3.gif)
 
 
 ## Project Skeleton

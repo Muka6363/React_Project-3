@@ -15,7 +15,7 @@ I mastered React, HTML-CSS features in this project. You can see the visual repr
 
 
 ## Visualization of the Website
-![image](https://github.com/Muka6363/React_Project-2/blob/main/public/React_Project-2.gif)
+![image](https://github.com/Muka6363/React_Project-3/blob/main/public/React_Project-3.gif)
 
 
 ## Project Skeleton
@@ -28,21 +28,15 @@ SOLUTION
 ├── public
 │     └── favicon.ico
 │     └── index.html
-│     └── React_Project_2.gif
+│     └── React_Project_3.gif
 ├── src
 │    ├── components
-│    │       ├── cards
-│    │       │       └── Card.jsx
-│    │       │       └── Card.css
+│    │       ├── List
+│    │       │       └── List_People.jsx
+│    │       │       └── List_People.css
 │    │       ├── Footer
-│    │       │       └── Card.jsx
-│    │       │       └── Card.css
-│    │       ├── Header
-│    │       │       └── Header.jsx
-│    │       │       └── Header.css
-│    │       ├── Navbar
-│    │       │       └── Navbar.jsx
-│    │       │       └── Navbar.css
+│    │       │       └── footer.jsx
+│    │       │       └── footer.css
 │    ├── helper
 │    │       └── data.js
 │    ├── App.js

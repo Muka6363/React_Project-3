@@ -5,7 +5,7 @@
 + Second open the files : :point_right:[My Docs](https://muka6363.github.io/React_Project-3/)
 + You can use this tutorial :point_right:[VS Code tutorial](https://www.youtube.com/watch?v=fJEbVCrEMSE)
 
-![image](![image](https://user-images.githubusercontent.com/101215803/197378919-de19b60b-3888-477b-8584-1266a62f314f.png))
+![image](https://user-images.githubusercontent.com/101215803/197378919-de19b60b-3888-477b-8584-1266a62f314f.png)
 
 ## Overview
 I mastered React, HTML-CSS features in this project. You can see the visual representation of the website above.

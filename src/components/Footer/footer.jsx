@@ -11,10 +11,10 @@ const Footer = () => {
           href=" https://www.linkedin.com/in/mustafakayikci63/"
           target="_blank"
         >
-          <i class="fa-brands fa-linkedin-in"></i>
+          <i className="fa-brands fa-linkedin-in" />
         </a>
         <a href="https://github.com/Muka6363" target="_blank">
-          <i class="fa-brands fa-github"></i>
+          <i className="fa-brands fa-github" />
         </a>
       </div>
     </div>

@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+## Hello...🙋🏻‍♂️...I'm Here With My Newest Project❤<img align="right" src="https://github.com/Muka6363/PROJELER_MK/blob/main/Images/avatar_2-removebg-preview.png"  width="100px">
+## Check The Live Website :arrow_right:[React_Project-2](https://muka6363.github.io/React_Project-2/) :arrow_left:
+## How to Use the Project
++ First download a code editor
++ Second open the files : :point_right:[My Docs](https://muka6363.github.io/React_Project-2/)
++ You can use this tutorial :point_right:[VS Code tutorial](https://www.youtube.com/watch?v=fJEbVCrEMSE)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://user-images.githubusercontent.com/101215803/195388081-390db97e-255c-452b-9398-5148cb48b48d.png)
 
-## Available Scripts
+## Overview
+I mastered React, HTML-CSS features in this project. You can see the visual representation of the website above.
+## Used in this project
+:point_right:React,HTML-CSS tags, Comments, Javascript, DOM (DOCUMENT OBJECT MODEL), Positioning,etc.:point_left:
 
-In the project directory, you can run:
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Visualization of the Website
+![image](https://github.com/Muka6363/React_Project-2/blob/main/public/React_Project-2.gif)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `yarn test`
+## Project Skeleton
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```
+001-React_Project-2(folder)
+|
+|----readme.md         # Given to the students (Definition of the project)
+SOLUTION
+├── public
+│     └── favicon.ico
+│     └── index.html
+│     └── React_Project_2.gif
+├── src
+│    ├── components
+│    │       ├── cards
+│    │       │       └── Card.jsx
+│    │       │       └── Card.css
+│    │       ├── Footer
+│    │       │       └── Card.jsx
+│    │       │       └── Card.css
+│    │       ├── Header
+│    │       │       └── Header.jsx
+│    │       │       └── Header.css
+│    │       ├── Navbar
+│    │       │       └── Navbar.jsx
+│    │       │       └── Navbar.css
+│    ├── helper
+│    │       └── data.js
+│    ├── App.js
+│    ├── index.js
+│    ├── index.css
+├── .gitignore
+├── package-lock.json
+├── package.json
+└── yarn.lock
+```
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
